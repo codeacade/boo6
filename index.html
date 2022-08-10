@@ -88,6 +88,11 @@
       </div>
     </div>
 
-
+    <script>
+      function chH1() {
+        document.querySelectorAll('h1').forEach( object => object.classList.toggle("m-3"));
+      }
+      document.querySelectorAll('.navbar-brand')[0].addEventListener("click", chH1);
+    </script>
 </body>
 </html>
