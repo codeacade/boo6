@@ -1,6 +1,9 @@
 # boo6
   Links:  
-    https://www.w3schools.com/bootstrap5/bootstrap_get_started.php  
+    https://www.w3schools.com/bootstrap5/bootstrap_get_started.php  # sev21
+    
+  Show branch name:  
+    `>git branch --show-current`
     
   Change branch name:  
     `>git branch -m master main`
